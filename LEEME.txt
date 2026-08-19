@@ -1,0 +1,14 @@
+LABKI — GitHub Pages
+
+Sube estos 5 archivos directamente a la raíz del repositorio `labki`:
+
+index.html
+logo-labki.png
+simbolo-labki.png
+kifu-saludando.png
+fondo-panal.jpg
+
+No necesitas carpetas.
+
+URL:
+https://labki3d.github.io/labki/
