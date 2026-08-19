@@ -1,14 +1,20 @@
-# LABKI Links
+# LABKI Links — GitHub Pages
 
-Página lista para GitHub Pages.
+Versión final basada en los archivos aportados.
 
 ## Subida
-Sube a la raíz del repositorio:
+Sube a la raíz del repositorio `labki`:
 - `index.html`
 - `styles.css`
-- carpeta `assets` completa
+- la carpeta `assets` completa
 
-No cambies la estructura de carpetas.
+No cambies nombres ni rutas.
 
-Instagram: `https://www.instagram.com/labki_3d/`  
-TikTok: `https://www.tiktok.com/@labki_3d`
+URL actual:
+https://labki3d.github.io/labki/
+
+Instagram:
+https://www.instagram.com/labki_3d/
+
+TikTok:
+https://www.tiktok.com/@labki_3d
